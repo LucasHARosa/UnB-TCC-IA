@@ -23,5 +23,5 @@ O projeto envolveu uma pesquisa abrangente sobre arquiteturas e técnicas usadas
     
 </p>
 
-## Resultados CNN
+
 
