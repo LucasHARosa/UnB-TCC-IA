@@ -15,4 +15,13 @@ Como alternativa, adotou-se uma segunda abordagem utilizando a arquitetura YOLO 
 O projeto envolveu uma pesquisa abrangente sobre arquiteturas e técnicas usadas em redes neurais, além de experimentação e ajuste fino para obter os melhores resultados. As descobertas deste estudo contribuem para o campo da identificação automatizada de parâmetros em processos de soldagem, oferecendo potencial para maior eficiência, controle de qualidade e otimização em aplicações de soldagem industrial.
 
 ## Resultados YOLO
+
+<p align="center">
+    <img height="400" src="./Resultados/val_batch0_pred.jpeg" alt="">
+    <img height="400" src="./Resultados/yolofinal.png" alt="">
+    <img height="100" src="./Resultados/erroyolo.png" alt="">
+    
+</p>
+
 ## Resultados CNN
+
