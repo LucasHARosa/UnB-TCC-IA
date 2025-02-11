@@ -1,7 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/IA_GMAW_TG_UnB)
-![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/IA_GMAW_TG_UnB)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_GMAW_TG_UnB)
-![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_GMAW_TG_UnB)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/UnB-TCC-IA)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/UnB-TCC-IA)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/UnB-TCC-IA)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/UnB-TCC-IA)
 # Análise automática de imagens de soldagem GMAW utilizando técnicas de inteligência artificial
 #### Lucas Henrique Alves Rosa - Projeto Final de Curso submetido como requisito parcial para obtenção do grau de Engenheiro de Controle e Automação
 
